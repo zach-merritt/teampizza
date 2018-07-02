@@ -1,5 +1,5 @@
 # Random Acts of Pizza
-## Authors: Ben Arnold, Mary Boardman, Zach Merritt, and Kevin Gifford
+## Authors: Ben Arnoldy, Mary Boardman, Zach Merritt, and Kevin Gifford
 #### Kaggle Competition Description:
 In machine learning, it is often said there are no free lunches. How wrong we were.
 
